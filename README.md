@@ -1,5 +1,6 @@
 # AVR-pets
-My old pet projects. Line following robot and custom speedometer. Both based on AVR Atmega8 microcontroller
+My old pet projects, a line-following robot and a custom speedometer. Both are based on AVR Atmega8 microcontroller.
+## Photos
 ![1](https://user-images.githubusercontent.com/115483849/232249624-156c1b07-e97a-4449-8a4e-cc031e4b4a11.jpg)
 ![2](https://user-images.githubusercontent.com/115483849/232249626-b2d2116b-e11e-46d3-879b-3fa7e1f1c580.jpg)
 ![3](https://user-images.githubusercontent.com/115483849/232249628-13c5027b-c335-4aa6-9600-1b47452a08cc.jpg)
